@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:09,440
+Hello all I am Arnaud Paran Data scientist at the DataLab Groupe of Crédit Agricole in France and I am going to show you the work that we published at ICDAR 2023.
+
+2
+00:00:09,200 --> 00:00:13,840
+Machine learning is now used a lot for various document processing tasks.
+
+3
+00:00:13,840 --> 00:00:19,080
+However, we know that machine learning models are vulnerable towards adversarial attacks.
+
+4
+00:00:19,080 --> 00:00:24,920
+But, there is no litterature evaluating effectiveness of adversarial attacks on documentary data.
+
+5
+00:00:24,920 --> 00:00:29,920
+That's why we implemented various attacks on document classification models.
+
+6
+00:00:29,920 --> 00:00:33,680
+We showed that the models are at high risk of being attacked,
+
+7
+00:00:33,600 --> 00:00:40,280
+even when compressing the image, rendering it grayscale, being in a black box setting or even attacking a surrogate model.
+
+8
+00:00:40,280 --> 00:00:45,680
+That conclusion is highly concerning and we should all start evaluating robustness of our models.
+
+9
+00:00:45,680 --> 00:00:53,360
+However, we also showed that adversarial training makes our models robust towards adversarial attacks.
+
+10
+00:00:53,360 --> 00:00:57,400
+I wish that I will see you during ICDAR 2023 to tell you more about that work.
+

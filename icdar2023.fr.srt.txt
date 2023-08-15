@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:09,440
+Bonjour, je suis Arnaud Paran Data scientist au Crédit Agricole en France et je vais vous montrer nos travaux de recherche publiés dans la conférence ICDAR 2023
+
+2
+00:00:09,200 --> 00:00:13,840
+Le machine learning est beaucoup utilisé en contrôle documentaire.
+
+3
+00:00:13,840 --> 00:00:19,080
+Cependant, nous savons que les modèles de machine learning sont sujets aux attaques adverses.
+
+4
+00:00:19,080 --> 00:00:24,920
+Mais comme il n'y a pas de littérature parlant d'attaques sur ce type de modèles IA documentaire,
+
+5
+00:00:24,920 --> 00:00:29,920
+nous avons testé de nombreuses attaques sur ce type de modèles.
+
+6
+00:00:29,920 --> 00:00:33,680
+Nous avons montré que les "attaquer" est facile,
+
+7
+00:00:33,600 --> 00:00:40,280
+même en utilisant de la compression, des niveaux de gris, ou même en utilisant un modèle de substitution.
+
+8
+00:00:40,280 --> 00:00:45,680
+Cette conclusion est importante, nous devrions donc toujouts vérfier la vulnérabilité de nos modèles!
+
+9
+00:00:45,680 --> 00:00:53,360
+Cependant, nous avons aussi montré qu'il est possible de les rendre robustes aux attaques par de l'entraînement adverse.
+
+10
+00:00:53,360 --> 00:00:57,400
+J'espère vous voir à l'ICDAR 2023 pour vous parler de ces travaux.
+
